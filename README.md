@@ -1,5 +1,3 @@
-# TikTok-Account-Creator
-TikTok accounts creator
 - TikTok Accounts Creator :
   - Create Accounts Unlimited
   - No ShadowBan
@@ -11,4 +9,5 @@ TikTok accounts creator
   - 100% Requests No Selenium
   - Updated In : 27/11/2023
 - Contact :
-  - TeleGram : https://t.me/IZEM666
+  - TeleGram : https://t.me/WHI3PER
+  - InstaGram : https://instagram.com/whisper_dev

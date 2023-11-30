@@ -1,12 +1,14 @@
 - TikTok Accounts Creator :
   - Create Accounts Unlimited
   - No ShadowBan
+  - Uploader / Follow / Like / Comment Bot
   - Captcha Solver
   - Device Registration
   - All Algorithms
   - Need Proxies
   - Working 100%
   - 100% Requests No Selenium
+  - Lastest Version
   - Updated In : 27/11/2023
 - Contact :
   - TeleGram : https://t.me/WHI3PER

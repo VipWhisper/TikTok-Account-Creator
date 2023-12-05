@@ -9,7 +9,7 @@
   - Working 100%
   - 100% Requests No Selenium
   - Lastest Version
-  - Updated In : 27/11/2023
+  - Updated In : 05/12/2023
 - Contact :
   - TeleGram : https://t.me/WHI3PER
   - InstaGram : https://instagram.com/whisper_dev

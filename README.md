@@ -1,15 +1,16 @@
 - TikTok Accounts Creator :
   - Create Accounts Unlimited
   - No ShadowBan
-  - Uploader / Follow / Like / Comment Bot
+  - Uploader / Follow / Like / Comment / Report Bot
   - Captcha Solver
   - Device Registration
-  - All Algorithms
+  - All Algorithms Updated (Landon, Khronos, Gorgon, mssdk...)
+  - Api Versions : api16 , api22 (both available)
+  - API Platform : Android,iOS,web
   - Need Proxies
   - Working 100%
   - 100% Requests No Selenium
-  - App Version : 32.4.3
-  - Updated In : 06/12/2023
+  - Updated In : 09/12/2023
 - Contact :
   - TeleGram : https://t.me/WHI3PER
   - InstaGram : https://instagram.com/whisper_dev

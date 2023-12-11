@@ -3,7 +3,7 @@
   - No ShadowBan
   - Uploader / Follow / Like / Comment / Report Bot
   - Captcha Solver
-  - Device Registration
+  - Device Registration And Activation
   - All Algorithms Updated (Landon, Khronos, Gorgon, mssdk...)
   - Api Versions : api16 , api22 (both available)
   - API Platform : Android,iOS,web

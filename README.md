@@ -11,7 +11,7 @@
   - Need Proxies
   - Working 100%
   - 100% Requests No Selenium
-  - Updated In : 25/12/2023
+  - Updated In : 28/12/2023
 - Contact :
   - TeleGram : https://t.me/WHI3PER
   - InstaGram : https://instagram.com/whisper_dev
